@@ -1,0 +1,26 @@
+/* 
+    Document   : Label
+    Created on : Nov 22, 2012, 6:43:08 PM
+    Author     : Sneha Bankar
+    Description:
+        Purpose of the stylesheet follows.
+*/
+label{
+width: 6em;
+float: left;
+text-align: right;
+margin-right: 0.5em;
+display: block
+}
+
+.error {
+    background-color: transparent;
+    color: red;
+    font-weight: bold;
+}
+
+.warn {
+    background-color: transparent;
+    color: black;
+    font-weight: normal;
+}
